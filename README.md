@@ -112,6 +112,55 @@ Your mentors are **not** meant to:
 **Presentation**  
 * Presentation time Saturday August 22th at **11 AM**! 
 
+## Presentation
+The presentation time limit is **7 minutes**! After each presentation, there will be a 3 minute Q&A. 
+
+Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
+
+* Title of the project
+* Team presentation
+* Goals of the project
+* Data - sources, problems and limitations
+* Database - data wrangling/cleaning and database structure
+* Main insights
+* Questions you were not able to answer and why
+* Learnings
+
+**Remember to present your insights as understandably as possible, using basic plots only if really necessary!**
+
+## Feedback
+
+As with the labs, we will give you some general feedback on the project code and the way you presented your findings. 
+
+## Tips & Tricks
+* Questions first. Data second.
+* Think about the workflow of your analysis BEFORE starting to code.
+* You will have more questions than answers. It's not a problem if you can't answer some or any of your questions. Just show us why you couldn't answer them, that itself will be interesting!
+
+## Asking Questions
+Imagine that our project is about the population of Amsterdam.
+We could, for example, try to answer a *descriptive* question such as: How many people are living in my neighborhood? In this case you will simply need to find data that can directly answer your question.
+Let's instead assume that your question is an *analytic* one such as: Is my neighborhood the best? In this case you will need to think what the word *best* means in this context. For example it could mean:
+* Safer
+* More cultural events
+* More schools
+* ...
+
+Analytic questions require you to think about the *how* of answering a question.
+This is one of the most interesting parts of the process and you will be doing it for the rest of the bootcamp (and most likely for the rest of your career as a data analyst).
+
+### Resources (Suggested)
+* [Data en Informatie (Dutch)](https://data.amsterdam.nl)
+* [Kaggle](www.kaggle.com)
+* [Rijkswaterstaat(Dutch)](https://www.rijkswaterstaat.nl/zakelijk/open-data)
+* [Nationale Spoorwegen (Dutch)](https://www.ns.nl/reisinformatie/ns-api)
+* [Google Dataset Search](https://datasetsearch.research.google.com)
+* [Education (English)](https://www.ceicdata.com/en/netherlands/education-statistics)
+* [Data en Overheid (Dutch)](https://data.overheid.nl/dataset/53928-lengte-van-spoorwegen--spoorwegkenmerken--provincie)
+* [Data en Overheid (Amsterdam) (Dutch)](https://data.overheid.nl/dataset/1/25?sort=score%20desc%2C%20metadata_modified%20desc&facet_source_catalog%5B0%5D=https%3A//data.amsterdam.nl/)
+* [Centraal Bureau voor de Statistiek (Data Portaal) (English and Dutch)](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS)
+
+
 ## Example Datasets
 
 Below you'll find some data sets that have been used for projects in the Barcelona DA Bootcamp. 
@@ -145,48 +194,5 @@ However, you should find your own data set about **Amsterdam**. The example data
 ### Economics & business
 **unemployment**: Registered unemployment by neighborhood and genre in the city of Barcelona (2013-2017).
 
-## Presentation
-The presentation time limit is **15 minutes**! After each presentation, there will be a Q&A. 
-
-Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
-
-* Title of the project
-* Team presentation
-* Goals of the project
-* Data - sources, problems and limitations
-* Database - data wrangling/cleaning and database structure
-* Main insights
-* Questions you were not able to answer and why
-* Learnings
-
-**Remember to present your insights as understandably as possible, using basic plots only if really necessary!**
-
-## Tips & Tricks
-* Questions first. Data second.
-* Think about the workflow of your analysis BEFORE starting to code.
-* You will have more questions than answers. It's not a problem if you can't answer some or any of your questions. Just show us why you couldn't answer them, that itself will be interesting!
-
-## Asking Questions
-Imagine that our project is about the population of Amsterdam.
-We could, for example, try to answer a *descriptive* question such as: How many people are living in my neighborhood? In this case you will simply need to find data that can directly answer your question.
-Let's instead assume that your question is an *analytic* one such as: Is my neighborhood the best? In this case you will need to think what the word *best* means in this context. For example it could mean:
-* Safer
-* More cultural events
-* More schools
-* ...
-
-Analytic questions require you to think about the *how* of answering a question.
-This is one of the most interesting parts of the process and you will be doing it for the rest of the bootcamp (and most likely for the rest of your career as a data analyst).
-
-### Resources (Suggested)
-* [Data en Informatie (Dutch)](https://data.amsterdam.nl)
-* [Kaggle](www.kaggle.com)
-* [Rijkswaterstaat(Dutch)](https://www.rijkswaterstaat.nl/zakelijk/open-data)
-* [Nationale Spoorwegen (Dutch)](https://www.ns.nl/reisinformatie/ns-api)
-* [Google Dataset Search](https://datasetsearch.research.google.com)
-* [Education (English)](https://www.ceicdata.com/en/netherlands/education-statistics)
-* [Data en Overheid (Dutch)](https://data.overheid.nl/dataset/53928-lengte-van-spoorwegen--spoorwegkenmerken--provincie)
-* [Data en Overheid (Amsterdam) (Dutch)](https://data.overheid.nl/dataset/1/25?sort=score%20desc%2C%20metadata_modified%20desc&facet_source_catalog%5B0%5D=https%3A//data.amsterdam.nl/)
-* [Centraal Bureau voor de Statistiek (Data Portaal) (English and Dutch)](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS)
 
 
