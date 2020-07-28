@@ -72,7 +72,7 @@ The **mandatory** deliverables and requirements that you must turn in are:
 * The project needs to be presented to your colleagues on the day of the presentation.
 
 The **deadline** to turn in the deliverables is right before the project presentations.
-## Presentation time Saturday August 22th at **11 AM**! (last day of Module 1)
+## Presentation time Saturday August 22th at **2 PM**! (last day of Module 1)
 
 ## Mentoring
 Your teachers will be your mentors!
@@ -110,10 +110,11 @@ Your mentors are **not** meant to:
 * Start preparing the slides for Friday's presentation.
 
 **Presentation**  
-* Presentation time Saturday August 22th at **11 AM**! 
+* Presentation time Saturday August 
+th at **2 PM**! 
 
 ## Presentation
-The presentation time limit is **7 minutes**! After each presentation, there will be a 3 minute Q&A. 
+The presentation time limit is **10 minutes**! After each presentation, there will be a 3 minute Q&A. 
 
 Our suggestion is to include at least the following slides in your presentation but feel free to add or remove slides:
 
