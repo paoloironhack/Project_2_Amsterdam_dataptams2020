@@ -95,8 +95,6 @@ Your mentors are **not** meant to:
 * Find interesting questions related to your topic.
 * Brainstorm to find out what kind of data you can use to answer those questions.
 * Research and look for the data you need. You can find some useful links to investigate in the ```Resources``` section.
-* On Saturday 8th of February there will be individual sessions in which you will discuss your topic and research questions with your teachers. 
-* On Tuesday the 11th of February, there will be a session with your teachers in which you will present the data sets you will be using for this project. 
 
 **Phase 2**
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/usAykV9K/project-2-barcelona). Define tasks, specifying those to be done individually and those to be done together. You are encouraged  **NOT TO CODE** until your project is planned.
@@ -107,11 +105,10 @@ Your mentors are **not** meant to:
 **Phase 3**
 * Analyze your data.
 * Find the most interesting and meaningful insights.
-* Start preparing the slides for Friday's presentation.
+* Start preparing the slides for Saturday's presentation.
 
 **Presentation**  
-* Presentation time Saturday August 
-th at **2 PM**! 
+* Presentation time Saturday August 22th at **2 PM**! 
 
 ## Presentation
 The presentation time limit is **10 minutes**! After each presentation, there will be a 3 minute Q&A. 
