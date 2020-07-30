@@ -124,8 +124,6 @@ Our suggestion is to include at least the following slides in your presentation 
 * Questions you were not able to answer and why
 * Learnings
 
-**Remember to present your insights as understandably as possible, using basic plots only if really necessary!**
-
 ## Feedback
 
 As with the labs, we will give you some general feedback on the project code and the way you presented your findings. 
