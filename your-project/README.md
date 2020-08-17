@@ -33,7 +33,7 @@ Datasets taken from OIS - Onderzoek, Informatie en Statistiek https://data.amste
 ## Database
 The database is made up of 3 tables, 1 for each of the datasets. 
 The tables are linked on Foreign Key by neighborhood names.
-The ERD (Entity Relationship Diagram) can be found [here] (https://drive.google.com/file/d/1AWH5Ygm2hIJxvgiS1zD4XGi5nhx6ituJ/view?usp=sharing)
+The ERD (Entity Relationship Diagram) can be found [here](https://drive.google.com/file/d/1AWH5Ygm2hIJxvgiS1zD4XGi5nhx6ituJ/view?usp=sharing)
 
 
 ## Workflow
