@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Amsterdam Project - Population
+*[Elske den Bode, Codruta Merticaru]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Part Time, Amsterdam & June 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,16 +16,25 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The topic for our project is Population. This is an interesting topic as everything relates to population and we wanted to deep dive into some aspects related to the population in Amsterdam. We were looking around the datasets available and realized it would be great to be able to make analysis comparing the different neighborhoods ofr Amsterdam.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The question we would like to answer is: What would be the best neighborhood in Amsterdam to move in for a young family of 2 parents and 2 small kids?Best neighborhood being defined for the purpose of this analysis, strictly in terms of smallest ratio of felonies per population. think in terms of area safety. 
+We did not have a hypotheses before looking at the data, due to not having enough prior knowledge about Amsterdam. 
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+We used the following datasets:
+2020 Household types split per neighborhood
+2020 total population male/female split per neighborhood
+2018 felonies per neighborhood, split per felony type
+All raw data stored on Google drive [here](https://drive.google.com/drive/u/1/folders/1fPJm91F0gBqNM8s9lf7s5NQWeQDltr5D) 
+Datasets taken from OIS - Onderzoek, Informatie en Statistiek https://data.amsterdam.nl/
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+The database is made up of 3 tables, 1 for each of the datasets. 
+The tables are linked on Foreign Key by neighborhood names.
+The ERD (Entity Relationship Diagram) can be found [here] (https://drive.google.com/file/d/1AWH5Ygm2hIJxvgiS1zD4XGi5nhx6ituJ/view?usp=sharing)
+
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
@@ -40,4 +49,4 @@ Include relevant links (that point to google drive or data sources) to your repo
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/KRSizSyD/amsterdam-project)  
